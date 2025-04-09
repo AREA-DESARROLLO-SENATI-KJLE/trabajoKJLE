@@ -1,5 +1,5 @@
-const usuario = {
-    id: 1,
+const usuario1 = {
+    id: 2,
     nombre: 'Edgar',
     apellido: 'Bazan Cardenas',
     carrera: 'Ingeniería de Software con IA',

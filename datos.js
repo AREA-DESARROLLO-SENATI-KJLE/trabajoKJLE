@@ -4,8 +4,8 @@ const usuario = {
     apellido: 'Huamán Cristóbal',
     carrera: 'Ingeniería de Software con IA',
     semestre: 5,
-    email: 'kimberlyhuamancris31@gmail.com',
+    email: '1529022@senati.pe',
     telefono: '927631223',
     dni: '60784472',
-    edad: 19
+    edad: 18
 };
